@@ -47,6 +47,8 @@ This project simulates the **front-end of a compiler**:
 
 ## 🧪 screenshot
 
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/7b09877f-e516-464b-a346-6ed69eb10b68" />
+
 
 
 
